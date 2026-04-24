@@ -23,7 +23,7 @@ accuracy, and generate actionable insights to support business decisions.
 When I’m not diving into data, you’ll find me at the gym or learning something new. I’m driven by those ‘aha!’ moments when data reveals insights that truly matter.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://jamesomorph.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/jamesomorph)
       
 ## 🔭 What I'm Currently Working On 
 
