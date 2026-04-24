@@ -27,14 +27,14 @@ When I’m not diving into data, you’ll find me at the gym or learning somethi
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Interactive Dashboard Project ⚠︎ Power BI ⎮ Tableau ⎮ Excel  
+- **Project B:** SQL-Focused Project ⚠︎ PostgreSQL 
+- **Project C:** End-to-End Business Analytics Project ⚠︎ SQL ⎮ Python ⎮ Power BI
 
 ## 🌱 Currently Learning 
 
 - Python 
-- Power BI
+- Power BI/Tableau
 
 ## 🛠️ Technical Skillset
 
